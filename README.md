@@ -7,9 +7,7 @@ A real-time digital clock built using JavaScript that dynamically updates the di
 A fun and interactive game where the user guesses a number generated randomly by the computer within a specified range. JavaScript is used to handle user input, check guesses, and provide feedback like "too high" or "too low." The game includes a scoring system and lets users reset for multiple rounds of guessing, demonstrating conditional statements and event handling.
 
 3. BMI Calculator
-A BMI (Body Mass Index) Calculator that takes the user's weight and height as input and calculates BMI using the formula:
- 
-JavaScript handles input validation and calculates the BMI value, providing health status feedback (e.g., underweight, normal, overweight). The project highlights mathematical operations and DOM manipulation.
+A BMI (Body Mass Index) Calculator that takes the user's weight and height as input and calculates BMI using the formula JavaScript handles input validation and calculates the BMI value, providing health status feedback (e.g., underweight, normal, overweight). The project highlights mathematical operations and DOM manipulation.
 
 4. Color Changer
 A simple tool that changes the background color of a webpage with a button click. JavaScript generates random RGB or hexadecimal colors and applies them to the background, enhancing the visual effect. This project introduces the use of random functions and CSS integration for color changes, providing a playful way to learn event listeners.
